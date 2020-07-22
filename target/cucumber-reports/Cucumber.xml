@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="73.408699">
+    <testcase classname="functionality of application" name="Verify Origin and Destination" time="25.274034">
+        <system-out>
+            <![CDATA[Given Open  browser and enter url...........................................passed
+When Enter "LAX" and "SFO" Cities...........................................passed
+And Departure and Return dates are selected.................................passed
+And Click Search............................................................passed
+Then Verify "LAX" and "SFO" Details.........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="functionality of application" name="Verify Origin and Destination 2" time="23.287193">
+        <system-out>
+            <![CDATA[Given Open  browser and enter url...........................................passed
+When Enter "LAX" and "BUF" Cities...........................................passed
+And Departure and Return dates are selected.................................passed
+And Click Search............................................................passed
+Then Verify "LAX" and "BUF" Details.........................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="functionality of application" name="Verify Origin and Destination 3" time="24.847472">
+        <system-out>
+            <![CDATA[Given Open  browser and enter url...........................................passed
+When Enter "SFO" and "BUF" Cities...........................................passed
+And Departure and Return dates are selected.................................passed
+And Click Search............................................................passed
+Then Verify "SFO" and "BUF" Details.........................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

@@ -1,0 +1,57 @@
+2020-07-22 15:20:17 INFO  CommonUtilities 17 - Current dir using System:C:\Users\Jana\eclipse-workspace\kayak/resources/testData/testData.properties
+2020-07-22 15:20:23 INFO  BrowserUtilities 31 - Launching Chrome Browser
+2020-07-22 15:20:27 INFO  BrowserUtilities 44 - Launching URL
+2020-07-22 15:20:31 INFO  BrowserUtilities 90 - Clear Origin clicked
+2020-07-22 15:20:32 INFO  BrowserUtilities 72 - LAX Origin
+2020-07-22 15:20:32 INFO  BrowserUtilities 90 - Origin clicked
+2020-07-22 15:20:33 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (31a9c3510442c6c62cd75e8ac1b5e475)] -> xpath: //div[contains(@id,'origin-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:20:33 INFO  BrowserUtilities 90 - Origin Dropdown clicked
+2020-07-22 15:20:34 INFO  BrowserUtilities 90 - Destiation clicked
+2020-07-22 15:20:34 INFO  BrowserUtilities 72 - SFO Destination
+2020-07-22 15:20:34 INFO  BrowserUtilities 90 - Destination clicked
+2020-07-22 15:20:35 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (31a9c3510442c6c62cd75e8ac1b5e475)] -> xpath: //div[contains(@id,'destination-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:20:35 INFO  BrowserUtilities 90 - Destination dropdown clicked
+2020-07-22 15:20:36 INFO  BrowserUtilities 90 - Search clicked
+2020-07-22 15:20:36 INFO  BrowserUtilities 114 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (31a9c3510442c6c62cd75e8ac1b5e475)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:20:36 INFO  BrowserUtilities 114 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (31a9c3510442c6c62cd75e8ac1b5e475)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:20:37 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (31a9c3510442c6c62cd75e8ac1b5e475)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:20:41 INFO  BrowserUtilities 90 - Covid clicked
+2020-07-22 15:20:42 INFO  CommonUtilities 17 - Current dir using System:C:\Users\Jana\eclipse-workspace\kayak/src/main/java/com/kayak/properties/config.properties
+2020-07-22 15:20:42 INFO  CommonUtilities 25 - Log4j Property file Path :C:\Users\Jana\eclipse-workspace\kayak/src/main/java/com/kayak/properties/log4j.properties
+2020-07-22 15:20:42 INFO  CommonUtilities 17 - Current dir using System:C:\Users\Jana\eclipse-workspace\kayak/resources/testData/testData.properties
+2020-07-22 15:20:47 INFO  BrowserUtilities 31 - Launching Chrome Browser
+2020-07-22 15:20:49 INFO  BrowserUtilities 44 - Launching URL
+2020-07-22 15:20:54 INFO  BrowserUtilities 90 - Clear Origin clicked
+2020-07-22 15:20:55 INFO  BrowserUtilities 72 - LAX Origin
+2020-07-22 15:20:56 INFO  BrowserUtilities 90 - Origin clicked
+2020-07-22 15:20:56 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ca1a62e4c76ecacbcc858131b4700217)] -> xpath: //div[contains(@id,'origin-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:20:56 INFO  BrowserUtilities 90 - Origin Dropdown clicked
+2020-07-22 15:20:57 INFO  BrowserUtilities 90 - Destiation clicked
+2020-07-22 15:20:57 INFO  BrowserUtilities 72 - BUF Destination
+2020-07-22 15:20:57 INFO  BrowserUtilities 90 - Destination clicked
+2020-07-22 15:20:57 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ca1a62e4c76ecacbcc858131b4700217)] -> xpath: //div[contains(@id,'destination-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:20:58 INFO  BrowserUtilities 90 - Destination dropdown clicked
+2020-07-22 15:20:59 INFO  BrowserUtilities 90 - Search clicked
+2020-07-22 15:20:59 INFO  BrowserUtilities 114 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ca1a62e4c76ecacbcc858131b4700217)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:21:00 INFO  BrowserUtilities 114 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (ca1a62e4c76ecacbcc858131b4700217)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:21:01 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (ca1a62e4c76ecacbcc858131b4700217)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:21:05 INFO  BrowserUtilities 90 - Covid clicked
+2020-07-22 15:21:05 INFO  CommonUtilities 17 - Current dir using System:C:\Users\Jana\eclipse-workspace\kayak/src/main/java/com/kayak/properties/config.properties
+2020-07-22 15:21:05 INFO  CommonUtilities 25 - Log4j Property file Path :C:\Users\Jana\eclipse-workspace\kayak/src/main/java/com/kayak/properties/log4j.properties
+2020-07-22 15:21:05 INFO  CommonUtilities 17 - Current dir using System:C:\Users\Jana\eclipse-workspace\kayak/resources/testData/testData.properties
+2020-07-22 15:21:10 INFO  BrowserUtilities 31 - Launching Chrome Browser
+2020-07-22 15:21:13 INFO  BrowserUtilities 44 - Launching URL
+2020-07-22 15:21:18 INFO  BrowserUtilities 90 - Clear Origin clicked
+2020-07-22 15:21:18 INFO  BrowserUtilities 72 - SFO Origin
+2020-07-22 15:21:19 INFO  BrowserUtilities 90 - Origin clicked
+2020-07-22 15:21:19 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (9f1aeb900e321366c28978e8acfb676b)] -> xpath: //div[contains(@id,'origin-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:21:19 INFO  BrowserUtilities 90 - Origin Dropdown clicked
+2020-07-22 15:21:20 INFO  BrowserUtilities 90 - Destiation clicked
+2020-07-22 15:21:21 INFO  BrowserUtilities 72 - BUF Destination
+2020-07-22 15:21:21 INFO  BrowserUtilities 90 - Destination clicked
+2020-07-22 15:21:21 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (9f1aeb900e321366c28978e8acfb676b)] -> xpath: //div[contains(@id,'destination-airport-smartbox-dropdown')]/ul/li[1]]
+2020-07-22 15:21:22 INFO  BrowserUtilities 90 - Destination dropdown clicked
+2020-07-22 15:21:23 INFO  BrowserUtilities 90 - Search clicked
+2020-07-22 15:21:23 INFO  BrowserUtilities 114 - ******Element NOT Displayed : [[ChromeDriver: chrome on WINDOWS (9f1aeb900e321366c28978e8acfb676b)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:21:25 INFO  BrowserUtilities 111 - Element Displayed : [[ChromeDriver: chrome on WINDOWS (9f1aeb900e321366c28978e8acfb676b)] -> xpath: //button[contains(@id,'covid-loading-dialog-close')]]
+2020-07-22 15:21:26 INFO  BrowserUtilities 90 - Covid clicked

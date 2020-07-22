@@ -1,0 +1,306 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "Verify Origin and Destination",
+        "description": "",
+        "id": "functionality-of-application;verify-origin-and-destination;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14159208100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open  browser and enter url",
+            "match": {
+              "location": "HomePage.open_browser_and_enter_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4773272200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter \"LAX\" and \"SFO\" Cities",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LAX",
+                  "offset": 7
+                },
+                {
+                  "val": "SFO",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePage.enter_and_Cities(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Departure and Return dates are selected",
+            "match": {
+              "location": "HomePage.departure_and_Return_dates_are_selected()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5382814100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click Search",
+            "match": {
+              "location": "HomePage.click_Search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 958652900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify \"LAX\" and \"SFO\" Details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LAX",
+                  "offset": 8
+                },
+                {
+                  "val": "SFO",
+                  "offset": 18
+                }
+              ],
+              "location": "HomePage.verify_and_Details(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Verify Origin and Destination",
+        "description": "",
+        "id": "functionality-of-application;verify-origin-and-destination;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11615295400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open  browser and enter url",
+            "match": {
+              "location": "HomePage.open_browser_and_enter_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5168526600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter \"LAX\" and \"BUF\" Cities",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LAX",
+                  "offset": 7
+                },
+                {
+                  "val": "BUF",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePage.enter_and_Cities(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 62100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Departure and Return dates are selected",
+            "match": {
+              "location": "HomePage.departure_and_Return_dates_are_selected()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6227890400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click Search",
+            "match": {
+              "location": "HomePage.click_Search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 275418100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify \"LAX\" and \"BUF\" Details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "LAX",
+                  "offset": 8
+                },
+                {
+                  "val": "BUF",
+                  "offset": 18
+                }
+              ],
+              "location": "HomePage.verify_and_Details(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "Verify Origin and Destination",
+        "description": "",
+        "id": "functionality-of-application;verify-origin-and-destination;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 12038674700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Open  browser and enter url",
+            "match": {
+              "location": "HomePage.open_browser_and_enter_url()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5287383100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Enter \"SFO\" and \"BUF\" Cities",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SFO",
+                  "offset": 7
+                },
+                {
+                  "val": "BUF",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePage.enter_and_Cities(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 69600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Departure and Return dates are selected",
+            "match": {
+              "location": "HomePage.departure_and_Return_dates_are_selected()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3860962500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click Search",
+            "match": {
+              "location": "HomePage.click_Search()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3660381900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Verify \"SFO\" and \"BUF\" Details",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SFO",
+                  "offset": 8
+                },
+                {
+                  "val": "BUF",
+                  "offset": 18
+                }
+              ],
+              "location": "HomePage.verify_and_Details(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "functionality of application",
+    "description": "",
+    "id": "functionality-of-application",
+    "keyword": "Feature",
+    "uri": "kayak.feature"
+  }
+]
